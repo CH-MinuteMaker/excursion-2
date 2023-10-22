@@ -23,9 +23,7 @@ h4 {
     color: white;
 }
 
-a {
-
-    
+a {  
     color: aquamarine;
     font-size: 16px;
 }
@@ -39,4 +37,5 @@ p {
 #copyright {
     text-align: right;
     color: gray;
+    font-size: 16px;
 }
